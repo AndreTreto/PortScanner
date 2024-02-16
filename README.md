@@ -5,3 +5,8 @@ How to Use:
 -Input a domain
   -Output: Open ports
   -Output: Encryption status
+
+Sample Scan Results:
+  -I inputted a website
+    -My output was the open SSH port
+    -And the encryption status as false
